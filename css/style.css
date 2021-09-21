@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+}
+
+nav{
+    height: 80px;
+    width: 100%;
+    background: blue;
+    color: white;
+}
+
+a{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+    transition: 0.5s;
+    margin: 0 10px;
+    line-height: 60px;
+}
+
+a:hover {
+    text-decoration: orange;
+    font-size: 21px;
+}
+
+h1 {
+    text-align: center;
+    background-color: orangered;
+}
+
+#lorem1 {
+    margin-bottom: 20px;
+    font-size: 75px;
+    color: black;
+    background-color: coral;}
+
+#lorem2 {
+    margin-bottom: 20px;
+    font-size: 75px;
+    color: black;
+    background-color: coral;
+}
+
+#home {
+    color: white;
+}
+#about {
+    color: white;
+}
+
+#products {
+    color: white;
+}
+#chitchat {
+    display: block;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
